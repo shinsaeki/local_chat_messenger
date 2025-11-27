@@ -25,13 +25,5 @@ local_chat_messenger/
 │   ├── udp_server.py
 │   └── udp_client.py
 │
-├── unix_socket/
-│   ├── server.py
-│   └── client.py
-│
-├── fifo/
-│   ├── server.py
-│   └── client.py
-│
 └── README.md
 ```
