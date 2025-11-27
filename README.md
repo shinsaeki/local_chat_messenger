@@ -8,8 +8,6 @@ allowing you to understand how different IPC mechanisms work in practice.
 ## Features
 - TCP client and server example
 - UDP client and server example
-- UNIX domain socket (stream) communication
-- Named pipe (FIFO) based message exchange
 - Clean and simple Python code for experimentation
 - Focused on understanding real IPC behavior
 
