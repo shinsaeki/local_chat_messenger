@@ -14,6 +14,7 @@ allowing you to understand how different IPC mechanisms work in practice.
 - Focused on understanding real IPC behavior
 
 ## Project Structure
+'''
 local_chat_messenger/
 │
 ├── tcp/
@@ -33,3 +34,4 @@ local_chat_messenger/
 │   └── client.py
 │
 └── README.md
+'''
